@@ -1,0 +1,7 @@
+name: " "
+output_dir: "docs"
+navbar:
+  title: "Métodos y Simulación Estadística"
+output:
+  html_document:
+    css: style.css
